@@ -1,0 +1,17 @@
+
+
+.start-game {
+    display: block;
+}
+
+.questions {
+    display: none;
+}
+
+.show {
+    display: inline-block;
+}
+
+.hide {
+    display: none;
+}
