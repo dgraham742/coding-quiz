@@ -26,7 +26,7 @@ function startTimer() {
 // var startButton = document.querySelector(".container");
 
 console.log(startButton);
-startButton.addEventListener("click", function (event) {
+startButton.addEventListener("click", function (e) {
     console.log("click");
 
     // Start a Timer
